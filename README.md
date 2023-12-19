@@ -1,7 +1,7 @@
 ### <div align="center">I'm Igor, a full-time full-stack freelance developer 👨‍💻 </div>  
   
 
-- 🔭 I’m currently working on [Startupupup Teams](https://github.com/startupupup)  
+- 🔭 I’m currently working on [Nova Developers Co](https://github.com/NovaDevelopersCo)  
   
 
 - 🌱 I’m currently learning Typescript and NextJS  
