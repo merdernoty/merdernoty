@@ -10,4 +10,5 @@ Here are some of the technologies and skills that I have acquired over the years
 - DevOps: Docker
 - Version Control: Git
 
-![image](https://github.com/user-attachments/assets/5a1408aa-ddaf-420d-942b-78a2c21ec5d8)
+
+![212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba](https://github.com/user-attachments/assets/9536819c-f15b-4d23-9b29-3c17c7809830)
