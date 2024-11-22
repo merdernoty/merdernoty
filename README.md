@@ -11,4 +11,4 @@ Here are some of the technologies and skills that I have acquired over the years
 - Version Control: Git
 
 
-![212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba](https://github.com/user-attachments/assets/9536819c-f15b-4d23-9b29-3c17c7809830)
+![e6dac1038095d76596e8b1bd9653f569](https://github.com/user-attachments/assets/fa94188b-29fc-4b74-863a-9c60e1cf726e)
