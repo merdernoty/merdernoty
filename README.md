@@ -1,80 +1,56 @@
-<div align="center">I'm Igor, a full-stack freelance developer specializing in Node.js and NestJS 👨‍💻</div>  
+# Igor Zimin
 
-- 🔭 I’m currently working on [Nova Developers Co](https://github.com/NovaDevelopersCo)  
-- 🌱 I’m currently learning advanced Next.js and DevOps tools  
-- ❓ Ask me about anything related to full-stack development and scalable backend architectures  
+[![Website Badge](https://img.shields.io/badge/Website-igorzimin.com-blue?style=flat-square&logo=google-chrome)](https://igorzimin.com/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-igor.zimin13-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/igor-zimin13/)
+[![GitHub followers](https://img.shields.io/github/followers/merdernoty?label=Follow&style=flat-square)](https://github.com/merdernoty)
 
-<br/>  
+Hey there! 👋 I'm Igor Zimin, a passionate full-stack developer specializing in backend development with Node.js and NestJS. With over 3 years of experience, I'm well-versed in JavaScript, TypeScript, and related technologies. Welcome to my GitHub profile, where I document my professional journey and showcase my projects. 
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+## 👨‍💻 Professional Background
 
+- 💼 Currently working on **mm-interview-Backend**, a project aimed at simplifying the backend development process for interview platforms.
+- 👨‍💻 I have experience with various backend frameworks, but NestJS has become my go-to choice due to its scalability and modular architecture.
+- 🌱 I enjoy expanding my skill set by exploring new technologies and learning best practices.
 
-### Frontend  
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
-<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
-</div>
+## 🚀 Skills and Expertise 
 
-</td><td valign="top" width="33%">
+Here are some of the technologies and skills that I have acquired over the years:
 
+- Frontend: JavaScript, TypeScript, React, HTML, CSS, SCSS, Bootstrap
+- Backend: Node.js, NestJS, Express.js
+- Databases: MongoDB, MySQL
+- DevOps: Docker
+- Version Control: Git
 
-### Backend  
-<div align="center">  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://nestjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" alt="NestJS" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
-<a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" /></a>  
-<a href="https://graphql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql-logo.svg" alt="GraphQL" height="50" /></a>  
-</div>
+## 📊 GitHub Activity
 
-</td><td valign="top" width="33%">
+![Github Stats](https://github-readme-stats.vercel.app/api?username=merdernoty&hide_title=true&hide=issues&count_private=true&show_icons=true&include_all_commits=true&bg_color=30,69579A,121019&text_color=ffffff&icon_color=ffffff&border_color=69579A)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=merdernoty&langs_count=6&layout=compact&hide_title=true&bg_color=30,121019,69579A&text_color=ffffff)
 
+## 💼 Key Projects
 
-### DevOps  
-<div align="center">  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
-<a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>  
-<a href="https://www.terraform.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/terraform-icon.svg" alt="Terraform" height="50" /></a>  
-</div>
+- [mm-interview-Backend](https://github.com/merdernoty/mm-interview-Backend): Backend platform for interview platforms. Simplifies the process of creating and managing interviews.
+- [starter-express-api](https://github.com/merdernoty/starter-express-api): Boilerplate code for setting up an Express.js REST API project.
+- [nova-web-dev](https://github.com/merdernoty/nova-web-dev): Collaborative project for building a team management web application using React and Redux.
 
-</td></tr></table>  
+## 🤝 Contributions
 
-<br/>  
+Apart from working on my own projects, I actively contribute to open-source repositories. Here are some of my notable contributions:
 
-## Connect with me  
-<div align="center">
-<a href="https://github.com/merdernoty" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/igor-zimin-8a3842282" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/merdernoty16218" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/igornezimin" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
+- [Kycedron/React-durum](https://github.com/Kycedon/React-durum): Contributed by reporting and fixing bugs to improve overall stability.
+- [merdernoty/React-cpsClickWebSite](https://github.com/merdernoty/React-cpsClickWebSite): Collaborated with the team to enhance the existing functionality and fix compatibility issues.
 
-<br/>  
+## 📫 Contact Me
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=merdernoty&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+Feel free to reach out to me through the following channels:
 
-<br/>  
+- Website: [igorzimin.com](https://igorzimin.com/)
+- LinkedIn: [igor.zimin13](https://www.linkedin.com/in/igor-zimin13/)
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=merdernoty&&style=flat-square" align="center" />
-</div>  
+## 🏆 GitHub Trophies
 
+I have been recognized for my contributions by earning some GitHub trophies:
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=merdernoty&theme=juicyfresh)](https://github.com/merdernoty)
+
+Thanks for visiting my profile! Happy coding! 🚀
