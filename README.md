@@ -1,6 +1,6 @@
 # Hey there! 👋
 
-I'm **Igor Zimin**, a backend developer specializing in **Node.js** and **NestJS**. With 3+ years of experience, I'm currently learning **Go** to expand my expertise.
+I'm **Igor Zimin**, a backend developer specializing in **Node.js** and **NestJS**. With 4+ years of experience, I'm currently learning **Go** to expand my expertise.
 
 ## 🚀 Skills
 
