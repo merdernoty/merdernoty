@@ -1,6 +1,6 @@
 # Hey there! 👋
 
-I'm **Igor Zimin**, a backend developer specializing in **Golang** , **Node.js** and **NestJS**.
+I'm **Igor Zimin**, a backend developer specializing in **Golang**, **Node.js** and **NestJS**.
 ## 🚀 Skills
 
 **Backend:** Golang, Node.js, NestJS 
