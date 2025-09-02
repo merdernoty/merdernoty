@@ -5,7 +5,7 @@ I'm **Igor Zimin**, a backend developer specializing in **Golang**, **Node.js** 
 
 **Backend:** Golang, Java, Node.js, NestJS                                                      
 **Databases:** PostgreSQL, MongoDB, MySQL, Redis, SQLite  
-**ORM:** Gorm,TypeORM, Sequelize, Mongoose  
+**ORM:** Gorm, TypeORM, Sequelize, Mongoose  
 **Microservices:** Kafka, Redis Pub/Sub, gRPC  
 **DevOps:** Docker, Docker Compose, Kubernetes, GitHub Actions  
 
