@@ -3,7 +3,7 @@
 I'm **Igor Zimin**, a backend developer specializing in **Golang**, **Node.js** and **NestJS**.
 ## 🚀 Skills
 
-**Backend:** Golang, Java, Node.js, NestJS 
+**Backend:** Golang, Java, Node.js, NestJS
 **Databases:** PostgreSQL, MongoDB, MySQL, Redis, SQLite  
 **ORM:** Gorm,TypeORM, Sequelize, Mongoose  
 **Microservices:** Kafka, Redis Pub/Sub, gRPC  
